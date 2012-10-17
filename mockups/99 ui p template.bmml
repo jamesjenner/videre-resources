@@ -1,0 +1,126 @@
+<mockup version="1.0" skin="sketch" measuredW="1557" measuredH="1079" mockupW="1493" mockupH="974">
+  <controls>
+    <control controlID="1" controlTypeID="__group__" x="171" y="926" w="1280" h="48" measuredW="1280" measuredH="48" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>ga-navbar-landscape-1280</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="1280" h="48" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="1">
+          <controlProperties>
+            <borderColor>3355443</borderColor>
+            <borderStyle>none</borderStyle>
+            <color>3355443</color>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="67" h="48" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="1">
+          <controlProperties>
+            <backgroundAlpha>1</backgroundAlpha>
+            <borderColor>3355443</borderColor>
+            <color>3355443</color>
+            <icon>JumpBackIcon%7Csmall</icon>
+            <shape>circle</shape>
+            <size>13</size>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::RoundButton" x="67" y="0" w="67" h="48" measuredW="32" measuredH="32" zOrder="2" locked="false" isInGroup="1">
+          <controlProperties>
+            <backgroundAlpha>1</backgroundAlpha>
+            <borderColor>3355443</borderColor>
+            <color>3355443</color>
+            <icon>UpFillTriangleIcon%7Csmall</icon>
+            <shape>circle</shape>
+            <size>13</size>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::RoundButton" x="134" y="0" w="67" h="48" measuredW="32" measuredH="32" zOrder="3" locked="false" isInGroup="1">
+          <controlProperties>
+            <backgroundAlpha>1</backgroundAlpha>
+            <borderColor>3355443</borderColor>
+            <color>3355443</color>
+            <icon>PagesIcon%7Csmall</icon>
+            <rotation>270</rotation>
+            <shape>circle</shape>
+            <size>13</size>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="__group__" x="1097" y="6" w="168" h="37" measuredW="168" measuredH="37" zOrder="4" locked="false" isInGroup="1">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="84" y="7" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="0" locked="false" isInGroup="4">
+              <controlProperties>
+                <color>10470904</color>
+                <icon>WirelessIcon%7Csmall</icon>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Icon" x="114" y="7" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="1" locked="false" isInGroup="4">
+              <controlProperties>
+                <color>10470904</color>
+                <icon>CellBarsIcon%7Csmall</icon>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="144" y="7" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="2" locked="false" isInGroup="4">
+              <controlProperties>
+                <color>10470904</color>
+                <icon>BatteryIcon%7Csmall</icon>
+                <rotation>90</rotation>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="0" y="0" w="-1" h="-1" measuredW="78" measuredH="37" zOrder="3" locked="false" isInGroup="4">
+              <controlProperties>
+                <color>10470904</color>
+                <size>28</size>
+                <text>12%3A00</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Canvas" x="64" y="105" w="1493" h="974" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0</backgroundAlpha>
+        <borderColor>0</borderColor>
+        <borderStyle>roundedSolid</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::RoundButton" x="69" y="109" w="1482" h="100" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <markup>false</markup>
+        <shape>roundRect</shape>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::RoundButton" x="68" y="974" w="1483" h="100" measuredW="32" measuredH="32" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <markup>false</markup>
+        <shape>roundRect</shape>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Canvas" x="71" y="161" w="100" h="868" measuredW="100" measuredH="70" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>0</color>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::RoundButton" x="64" y="111" w="1487" h="964" measuredW="32" measuredH="32" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0</backgroundAlpha>
+        <color>0</color>
+        <markup>false</markup>
+        <shape>roundRect</shape>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Canvas" x="1451" y="161" w="100" h="856" measuredW="100" measuredH="70" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>0</color>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
